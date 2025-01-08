@@ -1,0 +1,45 @@
+Task Title ------------------- Task Details
+
+1) NLP and respective libraries in python ----- NLP and NLP releated python libraries. https://pytorch.org/tutorials/beginner/basics/intro.html
+
+2) GenAI vs LLMs vs NLP --------- "Basic difference between Generative Ai, Large Language Model and Natural Language Processing.
+https://www.scribbledata.io/blog/genai-vs-llms-vs-nlp-a-complete-guide/"
+
+3) System Requirements to run LLAMA model on local machine ---------- Basic of LLAMA model (3.0)
+
+4) LangChain Framework	----------- "Implementing LLAMA2 with LangChain using python 
+https://www.youtube.com/watch?v=tEL833CPhqw&list=PLTDARY42LDV6flFgQLJCcVSXXa58mZ9Ty"
+
+5) RAG Pipeline ---------- "How I built a Simple Retrieval-Augmented Generation (RAG) Pipeline
+https://medium.com/@drjulija/what-is-retrieval-augmented-generation-rag-938e4f6e03d1"
+
+6) LangChain and Vector Databases ------- "What is Langchain and vector databases
+https://www.youtube.com/watch?v=DcNxg61kSFc
+
+------------ GenAI Vector Embeddings Explained: Create, Store, Search | ChromaDB & FAISS | Learn RAG from Scratch
+https://www.youtube.com/watch?v=wQES57Bbxbk
+
+------------ A LangChain Example - Implementation Demo
+https://learning.oreilly.com/videos/langchain-masterclass/9781835464427/9781835464427-video3_1/"
+
+7) Ollama Alternatives	--------- "Hugging Face Transformers
+https://huggingface.co/
+
+----------- Building Generative AI Using HuggingFace Open Source Models And Langchain
+https://www.youtube.com/watch?v=bFB4zqkcatU"
+
+8) Vector Databases - FAISS vs ChromaDB vs Pinecone vs Weaviate ---------- "Complete Tutorial on Vector Database - Learn ChromaDB, Pinecone & Weaviate | Generative AI
+https://www.youtube.com/watch?v=8KrTO9bS91s
+
+----------- Ollama Course | Build AI Apps Locally
+https://www.youtube.com/watch?v=GWB9ApTPTv4"
+
+9) Ollama implemented using python ----------	"Ollama Course | Build AI Apps Locally
+https://www.youtube.com/watch?v=GWB9ApTPTv4"
+
+10) Ollama implemented using python ----------	added seprate api for document uploading and chating in existing code
+
+11) Creating index file	-------- Generating FAISS index file on the serve to avoid recursive file uploading
+
+
+
